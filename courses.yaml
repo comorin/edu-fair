@@ -17,7 +17,7 @@ Medical:
         - Full Time
         - Part Time
         - Distance
-      OTO-RHINO-LARYNGOLOGY:
+      OTORHINOLARYNGOLOGY:
         studyMode:
         - Full Time
         - Part Time
@@ -97,12 +97,12 @@ Medical:
 Law:
   UG:
     LL.B:
-      B.A., LL.B:
+      BA., LL.B:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      BB.A., LL.B:
+      BBA., LL.B:
         studyMode:
         - Full Time
         - Part Time
@@ -191,18 +191,18 @@ Arts and Humanites:
         - Part Time
         - Distance
   PG:
-    M.A:
-      M.A. in English:
+    MA:
+      English:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      M.A. in Economics:
+      Economics:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      M.A. in Public Policy:
+      Public Policy:
         studyMode:
         - Full Time
         - Part Time
@@ -216,7 +216,7 @@ Arts and Humanites:
         - Distance
   Ph.D:
     Ph.D:
-      Economics (affiliated to Bengaluru Central University):
+      Economics:
         studyMode:
         - Full Time
         - Part Time
@@ -224,83 +224,84 @@ Arts and Humanites:
 Science:
   UG:
     B.Sc:
-      B.Sc. in Fashion and Apparel Design (FAD):
+      Fashion and Apparel Design (FAD):
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      B.Sc. Interior Design Management (IDM):
+      Interior Design Management (IDM):
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      B.Sc. Composite Home Science(H.Sc.):
+      Composite Home Science(H.Sc.):
         studyMode:
         - Full Time
         - Part Time
         - Distance
   PG:
     M.Sc:
-      M.Sc. BioChemistry:
+      BioChemistry:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      M.Sc Biotechnology:
+      Biotechnology:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      M.Sc. Botany:
+      Botany:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      M.Sc. in Chemistry:
+      Chemistry:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      M.Sc. Electronic:
+      Electronic:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      M.Sc. Food Science & Nutrition:
+      Food Science & Nutrition:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      M.Sc. Human Development:
+      Human Development:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      M.Sc. Life Science:
+      Life Science:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      M.Sc. Mathematics:
+      Mathematics:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      M.Sc. in Nano Science & Technology:
+      Nano Science & Technology:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      M. Sc in Computer Sciences:
+      Computer Sciences:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      M. Sc in Psychology:
+      Psychology:
         studyMode:
         - Full Time
         - Part Time
         - Distance
+    MCA:
       MCA:
         studyMode:
         - Full Time
@@ -308,102 +309,103 @@ Science:
         - Distance
   PG Diploma:
     Diploma:
-      Diploma in Cosmetology(UGC Approved):
+      Cosmetology:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      Diploma in Fashion Designing:
+      Fashion Designing:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      Diploma in Event Management:
+      Event Management:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      Postgraduate DiplomaEnvironmental Management and Auditing:
+      Environmental Management and Auditing:
         studyMode:
         - Full Time
         - Part Time
         - Distance
   Ph.D:
     Ph. D in Science Doctoral Program:
-      Ph.D. in Botany:
+      Botany:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      Ph.D. in Biotechnology:
+      Biotechnology:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      Ph.D. in Electronics:
+      Electronics:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      Ph.D. in Life Science:
+      Life Science:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      Ph.D. in Food Science and Nutrition:
+      Food Science and Nutrition:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      Ph.D. in Human Development:
+      Human Development:
         studyMode:
         - Full Time
         - Part Time
         - Distance
 Commerce and management:
   UG:
-    BBA/B.Com:
-      BBA – Regular (Specialization in Finance/Marketing/HR & IB):
+    BBA:
+      Regular (Specialization in Finance/Marketing/HR & IB):
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      BBA – Business Analytics:
+      Business Analytics:
         studyMode:
         - Full Time
         - Part Time
         - Distance
+    B.Com:
       B.Com. General:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      BCom – Honours (Integrated with CMA) Specialisation – Strategic Finance:
+      Honours (Integrated with CMA) Specialisation - Strategic Finance:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      B.Com. BPS(Business Process Services) in Association with Tata Consultancy Services:
+      BPS (Business Process Services):
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      B.Com. IAF (International Accounting and Finance) Accredited to ACCA:
+      IAF (International Accounting and Finance):
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      B.Com. Industry Integrated:
+      Industry Integrated:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      B.Com. Professional:
+      Professional:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      B.Com. Travel & Tourism Management:
+      Travel & Tourism Management:
         studyMode:
         - Full Time
         - Part Time
@@ -415,112 +417,107 @@ Commerce and management:
         - Full Time
         - Part Time
         - Distance
-      M.Com. International Business:
+      International Business:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      M.Com. Financial Analysis:
+      Financial Analysis:
         studyMode:
         - Full Time
         - Part Time
         - Distance
   PG Diploma:
     PG Diploma:
-      Post Graduate Diploma in International Business – One Year Programme:
+      International Business - One Year Programme:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      Post Graduate Diploma in Business and Entrepreneurship – One Year Programme:
+      Business and Entrepreneurship - One Year Programme:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      DBA/PGDBA – One Year Business Administration:
+      Business Administration - One Year Programme:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-  Ph. D:
-    Ph. D in Commerce & Management Doctoral Program:
-      Ph.D. in Commerce:
+  Ph.D:
+    Ph.D in Commerce & Management Doctoral Program:
+      Commerce:
         studyMode:
         - Full Time
         - Part Time
         - Distance
 Social science:
   UG:
-    Bachelor of Arts (BA):
-      A EPS-Bachelor of Arts (BA) in Economics, Political Science, Sociology:
+    BA:
+      Economics, Political Science, Sociology:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      BA HEP-Bachelor of Arts (BA) in History, Economics, Political Science:
+      History, Economics, Political Science:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      BSc EMS-Bachelor of Science (BSc) Economics, Mathematics, Statistics:
+      Economics, Mathematics, Statistics:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      BA PSEco-Bachelor of Arts (BA) in Psychology, Sociology, Economics:
+      Psychology, Sociology, Economics:
         studyMode:
         - Full Time
         - Part Time
         - Distance
   PG:
-    Master of Arts (MA):
-      Master of Arts (MA) in Applied Economics / (1+1) MS in Applied Economics, University of Cincinnati:
+    MA:
+      Applied Economics:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      Master of Arts (MA) in Applied Economics / (1+1) MA in Economics, Virginia Commonwealth University (VCU):
+      Economics:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      Master of Arts (MA) in Economics:
+      International Studies:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      Master of Arts (MA) in International Studies:
-        studyMode:
-        - Full Time
-        - Part Time
-        - Distance
-  MPHIL:
+  MPhil:
     Master of Philosophy (MPhil):
-      Master of Philosophy (MPhil) in Economics:
+      Economics:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      Master of Philosophy (MPhil) in International Studies:
+      International Studies:
         studyMode:
         - Full Time
         - Part Time
         - Distance
   Ph.D:
     Doctor of Philosophy (PhD):
-      Doctor of Philosophy (PhD) in Economics:
+      Economics:
         studyMode:
         - Full Time
         - Part Time
         - Distance
-      Doctor of Philosophy (PhD) in International Studies:
+      International Studies:
         studyMode:
         - Full Time
         - Part Time
         - Distance
 Engineering:
   UG:
-    B.E:
+    BE:
       Civil Engineering:
         studyMode:
         - Full Time
@@ -587,7 +584,7 @@ Engineering:
         - Part Time
         - Distance
   PG:
-    M.E:
+    ME:
       Structural Engineering:
         studyMode:
         - Full Time
